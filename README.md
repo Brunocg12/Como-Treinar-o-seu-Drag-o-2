@@ -7,3 +7,4 @@ Coloque abaixo sua opinião sobre o filme, digite o que achou do filme:
 ```
 node app.js
 ```
+:)
