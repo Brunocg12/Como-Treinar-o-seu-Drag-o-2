@@ -5,5 +5,5 @@
 Coloque abaixo sua opinião sobre o filme, digite o que achou do filme:
 
 ```
-npm install react
+node app.js
 ```
